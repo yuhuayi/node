@@ -1,0 +1,32 @@
+{
+  "name": "caorx",
+  "version": "1.0.0",
+  "description": "node 练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhuayi/node.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "caorx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuhuayi/node/issues"
+  },
+  "homepage": "https://github.com/yuhuayi/node#readme",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "mongoose": "^4.12.2",
+    "mpromise": "^0.5.5",
+    "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
+    "mongoose": "^4.12.2",
+    "mpromise": "^0.5.5"
+  }
+}
